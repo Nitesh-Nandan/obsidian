@@ -2,5 +2,6 @@
   "accentColor": "#5849d0",
   "theme": "moonstone",
   "cssTheme": "",
-  "interfaceFontFamily": ""
+  "interfaceFontFamily": "",
+  "baseFontSize": 19
 }

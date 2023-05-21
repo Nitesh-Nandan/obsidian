@@ -55,3 +55,21 @@
 - `endTrip(tripID, riderID, driverID ,time_elapsed, lat, long)`
 
 
+**Location Storage**
+**Hash**
+- Even Grid
+- GeoHash
+- Cartesian tiers
+
+**Tree**
+- QuadTree
+- Google S2
+- RTree
+
+**Touch Points:**
+- Security - WAF
+- Payments
+- Analytics
+
+Geo hash of google HeadQuater: 
+1001 10110 01001 11011 11010 (base 32 in binary) ->  9q9hvu (base32)

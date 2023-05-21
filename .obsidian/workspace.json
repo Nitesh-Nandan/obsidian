@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SystemDesign/Design Uber.md",
+                "file": "SystemDesign/Design Spotify.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d21c1574324f0bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "SystemDesign/Design Spotify.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "SystemDesign/Design Spotify.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "SystemDesign/Design Spotify.md"
               }
             }
           }
@@ -167,44 +178,50 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6028759ce0c6d55b",
+  "active": "0f57fb57a45bfbd8",
   "lastOpenFiles": [
-    "SystemDesign/Design Uber.md",
+    "Screenshot 2023-05-22 at 12.57.36 AM.png",
+    "SystemDesign/Video Streaming Platform Like Youtube, Netflix.md",
+    "SystemDesign/Design Spotify.md",
     "Untitled.md",
-    "Screenshot 2023-05-21 at 1.22.21 AM.png",
-    "uber flow.png",
+    "Video Streaming Platform.png",
+    "SystemDesign/Metrics.md",
+    "SystemDesign/Distributed File System.md",
+    "resource/hdfs-educative.png",
+    "resource/hdfs.png",
+    "SystemDesign/Distributed Logging.md",
+    "resource/LoggingHLd.png",
+    "resource/Screenshot 2023-05-21 at 10.55.15 AM.png",
+    "SystemDesign/Design Uber.md",
+    "Behavioural/Introduction.md",
+    "Untitled 1.md",
+    "README.md",
+    "resource/mantras.jpeg",
+    "resource/B+Tree.m4a",
+    "resource",
+    "resource/telegraf.jpeg",
+    "resource/Screenshot 2023-05-21 at 1.22.21 AM.png",
+    "resource/uber flow.png",
     "Thoughts/PmAndManagerThoughts.md",
     "Todo/Check.md",
     "2023-05-21.md",
-    "README.md",
     "Untitled 2.canvas",
     "Untitled 2.md",
     "Untitled.canvas",
-    "Screenshot 2023-04-15 at 10.28.51 PM.png",
+    "resource/Screenshot 2023-04-15 at 10.28.51 PM.png",
     "Munnekolala.m4a",
     "Untitled 3.md",
     "SystemDesign",
     "Untitled 3.canvas",
-    "B+Tree.m4a",
-    "mantras.jpeg",
-    "Behavioural/Introduction.md",
     "Nitesh's Resume-Meesho.pdf.md",
-    "Screenshot 2023-04-18 at 11.55.39 AM.png",
-    "Screenshot 2023-04-17 at 9.16.29 PM.png",
-    "Screenshot 2023-04-15 at 11.06.40 PM.png",
-    "Nitesh's Resume-Meesho.pdf",
-    "amazon leadership.jpeg",
+    "resource/Nitesh's Resume-Meesho.pdf",
     "Tech/Database.md",
-    "google Principles.jpeg",
     "Tech/HashMap.md",
-    "Screenshot 2023-05-07 at 2.13.01 AM.png",
     "Todo/2023-04-13.md",
-    "Untitled 1.md",
     "Untitled 1.canvas",
     "Thoughts/SelfHelp.md",
     "Behavioural",
     "Tech",
-    "Untitled",
     "Thoughts",
     "2023-04-13.md",
     "Need To Pick At Some Point of Time",
