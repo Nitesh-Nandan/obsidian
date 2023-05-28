@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ae014a3ec822e256",
+        "id": "4837d3c7cf2b55f4",
         "type": "tabs",
         "children": [
           {
-            "id": "0f57fb57a45bfbd8",
+            "id": "720b90f54b17bc2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Behavioural/Introduction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d21c1574324f0bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6028759ce0c6d55b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
+                "file": "SystemDesign/Design Uber.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Behavioural/Introduction.md",
+                "file": "SystemDesign/Design Uber.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Behavioural/Introduction.md",
+                "file": "SystemDesign/Design Uber.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Behavioural/Introduction.md"
+                "file": "SystemDesign/Design Uber.md"
               }
             }
           }
@@ -178,30 +154,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f57fb57a45bfbd8",
+  "active": "720b90f54b17bc2b",
   "lastOpenFiles": [
+    "architecture-diagrams/Zoom System Design.png",
+    "architecture-diagrams/Whatsapp System design.png",
+    "architecture-diagrams/Video Streaming Platform.png",
+    "architecture-diagrams/Uber System Design.png",
+    "architecture-diagrams/Twitter System Design.png",
+    "architecture-diagrams/TinyURL System Design.png",
+    "architecture-diagrams/Notification Service design.png",
+    "architecture-diagrams/Hotel Booking System.png",
+    "architecture-diagrams/Hoel Booking System.png",
+    "architecture-diagrams/Google Maps Design.png",
+    "architecture-diagrams/Facebook System Design.png",
+    "architecture-diagrams",
     "SystemDesign/Design Spotify.md",
-    "Screenshot 2023-05-22 at 12.57.36 AM.png",
-    "SystemDesign/Video Streaming Platform Like Youtube, Netflix.md",
     "Untitled.md",
-    "Video Streaming Platform.png",
+    "Untitled 1.md",
+    "Behavioural/Introduction.md",
+    "SystemDesign/Video Streaming Platform Like Youtube, Netflix.md",
     "SystemDesign/Metrics.md",
     "SystemDesign/Distributed File System.md",
-    "resource/hdfs-educative.png",
-    "resource/hdfs.png",
     "SystemDesign/Distributed Logging.md",
-    "resource/LoggingHLd.png",
-    "resource/Screenshot 2023-05-21 at 10.55.15 AM.png",
     "SystemDesign/Design Uber.md",
-    "Behavioural/Introduction.md",
-    "Untitled 1.md",
     "README.md",
-    "resource/mantras.jpeg",
     "resource/B+Tree.m4a",
     "resource",
-    "resource/telegraf.jpeg",
-    "resource/Screenshot 2023-05-21 at 1.22.21 AM.png",
-    "resource/uber flow.png",
     "Thoughts/PmAndManagerThoughts.md",
     "Todo/Check.md",
     "2023-05-21.md",
@@ -223,7 +201,6 @@
     "Tech",
     "Thoughts",
     "2023-04-13.md",
-    "Need To Pick At Some Point of Time",
-    "Experiment"
+    "Need To Pick At Some Point of Time"
   ]
 }
